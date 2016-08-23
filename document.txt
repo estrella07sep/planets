@@ -1,1 +1,5 @@
 i am attening to a course
+
+i am trying to commit in git
+
+one more tried
